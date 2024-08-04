@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/city-weather/static/css/main.323d48db.css",
+    "main.js": "/city-weather/static/js/main.b8fd0daa.js",
+    "static/js/453.3896be73.chunk.js": "/city-weather/static/js/453.3896be73.chunk.js",
+    "index.html": "/city-weather/index.html",
+    "main.323d48db.css.map": "/city-weather/static/css/main.323d48db.css.map",
+    "main.b8fd0daa.js.map": "/city-weather/static/js/main.b8fd0daa.js.map",
+    "453.3896be73.chunk.js.map": "/city-weather/static/js/453.3896be73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d48db.css",
+    "static/js/main.b8fd0daa.js"
+  ]
+}
